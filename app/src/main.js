@@ -3,8 +3,12 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import VueResource from 'vue-resource'
+import vmodal from 'vue-js-modal'
 
 Vue.config.productionTip = false
+Vue.use(VueResource)
+Vue.use(vmodal)
 
 /* eslint-disable no-new */
 new Vue({

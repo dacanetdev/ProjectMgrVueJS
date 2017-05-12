@@ -3,7 +3,7 @@
     <h3>Gallery</h3>
     <div>
       <vue-spinner size="massive" message="Loading..." v-if="loading"></vue-spinner>
-      <div class="col-md-3" v-for="thumbnail in thumbnails" @click="openPicture(thumbnail)" v-if="thumbnails && thumbnails.length > 0">
+      <div class="col-md-3" v-for="thumbnail in thumbnails" @click="openPicture(thumbnail)">
         <div class="thumbnail">
           <img class="img-thumbnail" :src="thumbnail.thumbnailUrl" alt="...">
           <div class="center-block" style="text-align: center;">
