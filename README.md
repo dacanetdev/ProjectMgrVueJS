@@ -5,7 +5,7 @@ Vue.js Project for Rever Test, includes gallery (completed), project manager, us
 - Get Code from GitHub
 ### git clone https://github.com/dacanetdev/ReverTestVueJS.git
 
-- Move to app folder
+- Move to app folder from the folder where you cloned the code.
 ### cd app
 
 - Install packages
