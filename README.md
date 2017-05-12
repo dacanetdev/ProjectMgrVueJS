@@ -12,6 +12,7 @@ Vue.js Project for Rever Test, includes gallery (completed), project manager, us
 ### npm install
 
 - Run the app
-npm run start
+### npm run start
+
 The application will be open in default browser in port 8080. You can open it in another browser
 ### http://localhost:8080
