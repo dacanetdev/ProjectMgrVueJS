@@ -3,15 +3,15 @@ Vue.js Project for Rever Test, includes gallery (completed), project manager, us
 
 # To Install the App
 - Get Code from GitHub
-git clone https://github.com/dacanetdev/ReverTestVueJS.git
+### git clone https://github.com/dacanetdev/ReverTestVueJS.git
 
 - Move to app folder
-cd app
+### cd app
 
 - Install packages
-npm install
+### npm install
 
 - Run the app
 npm run start
 The application will be open in default browser in port 8080. You can open it in another browser
-http://localhost:8080
+### http://localhost:8080
